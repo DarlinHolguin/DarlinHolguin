@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 - Outside of work I like to Listen to music
 - Let's connect via email: darlinholguin123@gmail.com
 
-## Tech Stack:
+## 🛠 Tech Stack
 
 ### Languages
-- JavaScript
+- JavaScript, Python, SQL, HTML, CSS
 
 ### Frameworks & Libraries
-- Node.js
+- React, Node.js, Express.js, PostgreSQL
 
 ### Tools
-- Git
-- GitHub
+- Git, GitHub, VS Code, Command Line
